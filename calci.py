@@ -15,4 +15,4 @@ elif operator == "%":
 else:
     print("Invalid Operator")
 
-print("The above is your answer")              
+print("Above is your answer")              
